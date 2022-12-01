@@ -4,4 +4,4 @@ The data was analyzed looking at different factors including, date launched, typ
 
 I've included a chart to show the success and fail rates specific to the launch dates. As you can see, the more successful launches started in late spring. We also noticed a trend in less successful launches as the year went on into the fall and winter months.
 
-![image_name]("C:\Users\amiec\OneDrive\Desktop\class files\Outcomes_Launch Date.png")
+![Outcomes Based On Launch Date](C:\Users\amiec\OneDrive\Desktop\class files\Outcomes_Launch Date.png)
