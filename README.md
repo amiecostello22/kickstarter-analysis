@@ -35,4 +35,4 @@
 
 
 ![Outcomes Based on Launch Date](https://github.com/amiecostello22/kickstarter-analysis/blob/main/OutcomesLaunchDate.png)
-![Outcomes Based on Goals](path/to/image_name.png)
+![Outcomes Based on Goals](Outcomes_vs_Goals.png)
