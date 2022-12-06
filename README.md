@@ -15,18 +15,24 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-- There were more campaigns launched in the spring than any other time of year. The campaigns that were launched in spring seemed to have the greater success to fail ratio with there being more successful campaigns in the spring.
+     There were more campaigns launched in the spring than any other time of year. 
+     The campaigns that were launched in spring seemed to have the greater success to fail 
+     ratio with there being more successful campaigns in the spring.
 
 - What can you conclude about the Outcomes based on Goals?
-- The campaigns with the most success had goals less than $4,999. However, goals that exceeded the goal of $35,000 had a majority of a success rate of 67%.
+     The campaigns with the most success had goals less than $4,999. However, goals that 
+     exceeded the goal of $35,000 had a majority of a success rate of 67%.
 
 - What are some limitations of this dataset?
-- We were not able to see and filter the data based on particular regions in the country the plays were set to perform. Having access to this
-- data could determine if a play was more successful based on if it were in a larger metro area or more rural based.
+     We were not able to see and filter the data based on particular regions in the country the 
+     plays were set to perform. Having access to this data could determine if a play was more 
+     successful based on if it were in a larger metro area or more rural based.
 
-- What are some other possible tables and/or graphs that we could create?
-- We could create a more detailed chart showing the success to fail ratio based on the amount of backers and their average donation.
+- What are some other possible tables and/or graphs that we could create? 
+     We could create a more detailed chart showing the success to fail ratio based on the amount 
+     of backers and their average donation.
  
 
 
 ![Outcomes Based on Launch Date](https://github.com/amiecostello22/kickstarter-analysis/blob/main/OutcomesLaunchDate.png)
+![Outcomes Based on Goals](path/to/image_name.png)
